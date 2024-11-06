@@ -2,6 +2,6 @@
 ### Contact the Stanford Office of Technology Licensing (otl.stanford.edu) for commercial license inquiries
 
 ### Cite this work
-#### Ruizhe Liu, Hyesang Chang, Dawlat El-Said1, Demian Wassermann, Yuan Zhang, Vinod Menon (In Revision). Brain-wide Decoding of Numbers and Letters: Converging Evidence from Multivariate fMRI Analysis and Probabilistic Meta-Analysis. <em> Cortex. </em>
+#### Ruizhe Liu, Hyesang Chang, Dawlat El-Said, Demian Wassermann, Yuan Zhang, Vinod Menon (In Revision). Brain-wide Decoding of Numbers and Letters: Converging Evidence from Multivariate fMRI Analysis and Probabilistic Meta-Analysis. <em> Cortex. </em>
 
 ## Key steps and corresponding scripts used for the analyses are summarized below
